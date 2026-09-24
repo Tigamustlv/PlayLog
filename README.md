@@ -1,2 +1,2 @@
 # PlayLog
-Apenas a arquitetura ficará publica.
+Seu backlog. Sua biblioteca. Seu próximo jogo.
